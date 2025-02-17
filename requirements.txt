@@ -1,0 +1,7 @@
+-i https://pypi.org/simple
+behave==1.2.6
+pytest==8.3.4
+pytest-xdist==3.6.1
+pytest-bdd==8.1.0
+pytest-playwright-asyncio==0.7.0
+pytest-playwright==0.7.0
